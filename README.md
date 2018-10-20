@@ -3,8 +3,10 @@ Basic application of top news using React native
 
 * Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/), [npm](https://Nodejs.org), and [React Native](https://facebook.github.io/react-native/).<br />
 * Install the dependencies by running ```npm install``` <br />
-* Run `react-native run-android` or `react-native run-ios` depending on your platform.
 * Need Api key of [News API](https://newsapi.org).
+* Once you get the API replace <YOUR_API_KEY> in ./src/news.js 
+* Run `react-native run-android` or `react-native run-ios` depending on your platform.
+
 
 ---
 ## Sample of the app
