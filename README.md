@@ -10,21 +10,21 @@ Basic application of top news using React native
 
 #### First screen with top news headlines in the world 
 
-<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%208.14.18%20PM.png" alt="world news">
+<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%209.05.45%20PM.png" alt="world news" width="100">
 
 #### Top news headlines in USA 
-<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%208.13.50%20PM.png" alt="USA news">
+<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%209.06.19%20PM.png" alt="USA news" width="100">
 
 
 #### Top headlines news in Australian
-<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%208.14.31%20PM.png" alt="Australia news">
+<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%209.06.35%20PM.png" alt="Australia news" width="100">
 
 
 #### Top headlines news in India
-<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%208.14.48%20PM.png" alt="world news">
+<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%209.06.51%20PM.png" alt="India news" width="100">
 
 #### Sample if we tap on any news
-<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/actual_source.png" alt="world news">
+<img src ="https://raw.githubusercontent.com/karkranikhil/Flash_News/master/img/Screen%20Shot%202018-10-20%20at%209.07.09%20PM.png" alt="full news" width="100">
 
 ---
 
