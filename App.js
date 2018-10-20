@@ -51,7 +51,7 @@ export default class App extends React.Component {
     return (
 <View>
       <Header
-        centerComponent={{ text: 'My Times', style: { color: '#fff', fontSize: 20 } }}
+        centerComponent={{ text: 'Flash News', style: { color: '#fff', fontSize: 20 } }}
       />
       <ButtonGroup
       onPress={this.updateIndex}
